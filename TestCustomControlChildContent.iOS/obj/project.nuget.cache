@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "I548vdpMMvovfxDNXtKR4tVrNggUMzmnMNdcuP3Ji8LRAad0fenJKF4gbogAc+P2atvkf7tAbMkMlwf6VRYGXQ==",
+  "success": true,
+  "projectFilePath": "/Users/jm/repos/temp/TestCustomControlChildContent/TestCustomControlChildContent.iOS/TestCustomControlChildContent.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/jm/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/jm/.nuget/packages/xamarin.forms/4.6.0.1141/xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

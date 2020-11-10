@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{8466E04E-DD19-4EDE-8A3E-7F7C89A4ABC7}|Default">
+  <MonoDevelop.Ide.ItemProperties.TestCustomControlChildContent.Android FirstBuild="True" PreferredExecutionTarget="Android.nexus_10_q_10_0_-_api_29" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestCustomControlChildContent/CustomPopupLayoutControl.xaml">
+    <Files>
+      <File FileName="TestCustomControlChildContent/MainPage.xaml" Line="17" Column="55" />
+      <File FileName="TestCustomControlChildContent/CustonPopupLayoutControl.xaml.cs" Line="26" Column="1" />
+      <File FileName="TestCustomControlChildContent/CustonPopupLayoutControl.xaml" Line="12" Column="1" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestCustomControlChildContent" expanded="True">
+            <Node name="TestCustomControlChildContent" expanded="True">
+              <Node name="CustomPopupLayoutControl.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TestCustomControlChildContent.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.BC06B5BC-641E-4488-B605-6A9837A57CF5" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/jm/repos/temp/TestCustomControlChildContent/TestCustomControlChildContent/CustomPopupLayoutControl.xaml.cs" relfile="TestCustomControlChildContent/CustomPopupLayoutControl.xaml.cs" line="65" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
